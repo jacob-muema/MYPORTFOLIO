@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jacobmuema.netlify.app/sitemap.xml
